@@ -4,7 +4,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpdhruby&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![SangHyone GitHub stats](https://github-readme-stats.vercel.app/api?username=SangHyone&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sksrka0206)](https://solved.ac/sksrka0206/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shoogal17)](https://solved.ac/shoogal17/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -27,9 +27,9 @@
 
  
 # :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoogal17.tistory.com/)](https://shoogal17.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pdhruby@cs.gwnu.ac.kr)](mailto:pdhruby@cs.gwnu.ac.kr)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:shoogal17@naver.com)](mailto:shoogal17@naver.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://no-silver-bullet.tistory.com/)](https://no-silver-bullet.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ckdlsktkdgus@naver.com)](mailto:ckdlsktkdgus@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ckdlsktkdgus@naver.com)](mailto:ckdlsktkdgus@naver.com)
 <!--
 **SangHyone/SangHyone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
