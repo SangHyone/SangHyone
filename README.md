@@ -1,5 +1,5 @@
-### Hi there 👋
-# Hello. Wellcome To My World 😉
+### 안녕하세요 👋
+# 방문해주셔서 감사합니다 😉
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpdhruby&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
